@@ -6,7 +6,7 @@
 
 Get all user zones
 
-    curl -X GET https://cloudns.ru/api/dns/v1/zones/ -u <email>:<secret>
+    curl -X GET https://cloudns.ru/api/dns/v1/zones/ -u {EMAIL}:{SECRET}
 
 Results
 
